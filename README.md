@@ -8,7 +8,7 @@
 - Email: cd17822@gmail.com
 - Twitter, Github, npm: [@cd17822](https://twitter.com/cd17822)
 - Site: http://www.charlied.me
-- Version: 1.0.2
+- Version: 1.0.4
 
 
 #### Installation
