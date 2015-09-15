@@ -1,0 +1,29 @@
+{
+  "name": "cutoff-catcher",
+  "version": "1.0.1",
+  "description": "A binary-search-flavored method to finding a cutoff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cd17822/cutoff-catcher.git"
+  },
+  "keywords": [
+    "cutoff",
+    "catcher",
+    "cutoff-catcher",
+    "search",
+    "loop",
+    "find",
+    "binary",
+    "b-search"
+  ],
+  "author": "Charlie DiGiovanna <cd17822@gmail.com> (http://www.charlied.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cd17822/cutoff-catcher/issues"
+  },
+  "homepage": "https://github.com/cd17822/cutoff-catcher#readme"
+}
