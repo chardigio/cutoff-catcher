@@ -1,8 +1,17 @@
 /**
+ * By putting in an initial step, cutoff-catcher
+ * will iterate over the integers by such step until
+ * the a condition is satisfied (the input function
+ * returns true). Then a binary search beginning at the
+ * midpoint of the iterator's position and the previous
+ * iterator position will begin until the cutoff
+ * between where the condition is and is not satisfied
+ * is found.
  *
- *
- *
- *
+ * @param {Integer} step - Initial step to iterate by
+ * @param {Function} test - Condition to find cutoff by
+ * @param {Function} callback - Optional callback with
+ *   format (error, cutoffPosition)
  */
 
 module.exports = catcher = function(step, test, callback){
