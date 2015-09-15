@@ -1,4 +1,4 @@
-#cutoff-catcher
+##cutoff-catcher
 ### A binary-search-flavored method to finding a cutoff
 
 
@@ -67,6 +67,8 @@ catcher 4, (x) -> dict[x] >= "grape", (err, cutoff) ->
 Find a field attribute cutoff in a list of objects.
 
 ```coffeescript
+catcher = require 'cutoff-catcher'
+
 ben = name: 'ben', present: yes
 luke = name: 'luke', present: yes
 joe = name: 'joe', present: yes
