@@ -1,6 +1,6 @@
 {
   "name": "cutoff-catcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A binary-search-flavored method to finding a cutoff",
   "main": "index.js",
   "scripts": {
