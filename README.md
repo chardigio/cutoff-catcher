@@ -1,6 +1,3 @@
-##cutoff-catcher
-### A binary-search-flavored method to finding a cutoff
-
 
 #### Meta
 
@@ -8,7 +5,7 @@
 - Email: cd17822@gmail.com
 - Twitter, Github, npm: [@cd17822](https://twitter.com/cd17822)
 - Site: http://www.charlied.me
-- Version: 1.0.4
+- Version: 1.0.5
 
 
 #### Installation
